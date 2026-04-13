@@ -92,9 +92,6 @@ Security → DevSecOps → Cloud Infra → MLOps
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vanillaturtlechips&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![vanillaturtlechips's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillaturtlechips&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaturtlechips&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
 </div>
 
 ---
