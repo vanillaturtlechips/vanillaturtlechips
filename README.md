@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 보안 관제에서 시작된 **왜?** 라는 질문을 품고 개발의 세계로 뛰어들었습니다.
 
@@ -27,7 +27,7 @@ Security → DevSecOps → Cloud Infra → MLOps
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,7 +60,7 @@ Security → DevSecOps → Cloud Infra → MLOps
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Team Projects
 
@@ -86,12 +86,14 @@ Security → DevSecOps → Cloud Infra → MLOps
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vanillaturtlechips&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaturtlechips&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanillaturtlechips&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![vanillaturtlechips's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillaturtlechips&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaturtlechips&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
@@ -99,6 +101,6 @@ Security → DevSecOps → Cloud Infra → MLOps
 
 <div align="center">
 
-방문해주셔서 감사합니다! 😄
+방문해주셔서 감사합니다!
 
 </div>
